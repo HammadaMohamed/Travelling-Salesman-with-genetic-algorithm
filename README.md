@@ -6,3 +6,4 @@ Le TSP a des applications pratiques dans des domaines tels que la logistique, la
 ## Objectis du projet
 Je me concentre sur la résolution du problème du voyageur de commerce, où chaque trajet entre les villes est associé à un coût spécifique. 
 Mon objectif est d'optimiser ce problème en appliquant la métaheuristique de l'algorithme génétique pour trouver la solution la plus efficace.
+![Uploading image.png…]()
